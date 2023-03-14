@@ -867,7 +867,7 @@ section {
 #contact .info i {
   font-size: 32px;
   color: #2dc997;
-  float: left;
+  /* float: left; */
   line-height: 0;
 }
 #contact .info p {
